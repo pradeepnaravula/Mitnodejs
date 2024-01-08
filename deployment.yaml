@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: us-central1-docker.pkg.dev/original-nation-408710/docker/node:latest
+        image: us-central1-docker.pkg.dev/original-nation-408710/docker/node:10
         ports:
         - containerPort: 3000
