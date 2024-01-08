@@ -10,4 +10,4 @@ spec:
   - protocol: TCP
     port: 8000
     targetPort: 3000
-    nodePort: 31005
+    nodePort: 31006
